@@ -2776,3 +2776,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.17-03.38.10:771][660]LogContentValidation: Display: Validating Blueprint /Game/Assets/Character/Player/PlayerCharacter.PlayerCharacter
 [2021.08.17-03.38.12:263][741]BlueprintLog: New page: Compile PlayerCharacter
 [2021.08.17-03.38.12:318][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.08.17-03.43.42:243][637]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.08.17-03.43.42:276][637]LogSavePackage: Moving '../../../../../../Users/WTF/Documents/Unreal Projects/GameDesign/GameDesign/gameDesign/Saved/PlaceHolder_00_Auto1A7EC3B754E9CFD9A2E0A0CB08BACF95E.tmp' to '../../../../../../Users/WTF/Documents/Unreal Projects/GameDesign/GameDesign/gameDesign/Saved/Autosaves/Game/Maps/PlaceHolder_00_Auto1.umap'
+[2021.08.17-03.43.42:280][637]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/PlaceHolder_00' took 0.058
+[2021.08.17-03.43.42:280][637]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.058
